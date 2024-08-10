@@ -21,3 +21,6 @@ d) Déterminer la distribution de fréquence pour la marge brute en utilisant ci
 similaire à la figure 1.6.
 
 e) Quel est le coefficient de capitalisation boursière moyen ?
+
+
+
